@@ -48,3 +48,8 @@ li a:hover:not(.active) {
 .active {
   background-color: grey;
 }
+
+p.box {
+  border: 2px solid purple;
+  border-radius: 8px;
+}
