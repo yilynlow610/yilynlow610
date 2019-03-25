@@ -56,8 +56,15 @@ p.box {
   width: 50%;
   padding: 10px;
   background-color: #FFC2F6;
+
   
-  
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
 
 h3{
