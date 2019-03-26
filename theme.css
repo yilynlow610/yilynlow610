@@ -91,11 +91,10 @@ a.links:hover, a.links:active {
   background-color: 	#F5DEB3;
   display:block
   width: 100%;
-  left: 0;
   bottom: 0;
   color: blue;
   text-align: center;
-  position: relative;
-  font-size: 10px;
+  position: fixed;
+  font-size: 15px;
   
 }
