@@ -75,7 +75,7 @@ p.box {
  }
 
 .links{
-  background-color: #f44336;
+  background-color: #777cf4;
   color: white;
   padding: 14px 25px;
   text-align: center;
@@ -84,5 +84,5 @@ p.box {
 }
 
 a.links:hover, a.links:active {
-  background-color: red;
+  background-color: #88d0f7;
 }
