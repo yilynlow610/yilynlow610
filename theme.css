@@ -92,5 +92,9 @@ a.links:hover, a.links:active {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 50%;
+  width: 100%;
+  position: fixed;
+  bottom: 0;
+  color: blue;
+  text-align: center;
 }
