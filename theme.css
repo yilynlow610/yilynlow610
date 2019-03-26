@@ -95,6 +95,7 @@ a.links:hover, a.links:active {
   bottom: 0;
   color: blue;
   text-align: center;
-  
+  position:absolute;
+  font-size: 10px;
   
 }
