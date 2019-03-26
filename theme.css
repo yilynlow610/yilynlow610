@@ -89,9 +89,10 @@ a.links:hover, a.links:active {
 
 .foot{
   background-color: 	#F5DEB3;
-  display:block;
+
   width: 100%;
-  position: fixed;
+  left:0;
+  right: 0;
   bottom: 0;
   color: blue;
   text-align: center;
